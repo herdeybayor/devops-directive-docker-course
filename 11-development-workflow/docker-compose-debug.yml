@@ -1,5 +1,4 @@
 # Overlay configuration to enable debuggers
-version: "3.9"
 services:
   api-node:
     command: 
